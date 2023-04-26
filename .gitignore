@@ -1,0 +1,22 @@
+# Ignore everything
+/*
+
+# Include git-related files
+!.gitignore
+!README.md
+!LICENSE
+
+# Include configs
+!X11
+X11/.Xauthority
+!alacritty
+alacritty/themes
+!fontconfig
+!git
+!i3
+!nvim
+!polybar
+!zathura
+!zsh
+zsh/.histfile
+zsh/.zcompdump
